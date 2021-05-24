@@ -32,4 +32,8 @@ There are some relationships among knock-in, knock-out, and vanilla options.
 
 
 Reference:
+
 https://finpricing.com/lib/EqBarrier.html
+
+https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamETNxUDO3MTPkl0av9mY
+
